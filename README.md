@@ -18,5 +18,3 @@ https://drive.google.com/file/d/1KY2wREL3H-iZXQp9VqSsBDJTASS5Zuro/view?usp=shari
 
 The demo has more content than shown in the previous video. And of course, you can download the demo apk here and give it a try yourself if you're curious:
 https://drive.google.com/file/d/1diLU3Tw_kc4hXoz3YFYcId9FQx4Mv0di/view?usp=sharing
-
-I'm definitely finishing this project :)
